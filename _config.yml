@@ -1,0 +1,14 @@
+layout_spectrum: 0.8707429
+typography_spectrum: 0.3226016
+color:
+  saturation: 0.01115674
+  lightness: 0.7792738
+  brandStrength: 0.9506454
+  rhythmicContrast: 0.03120647
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Motion Design
